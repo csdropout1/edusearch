@@ -2,7 +2,7 @@
 This project was originally created in colaboration with 2 other individuals and the repository was cloned from 
 https://github.com/RafaelPiloto10/edusearch
 
-A browser for education sites built by... students with ♥.
+A browser for education sites built by... students with ♥. 
 
 ## Inspiration
 
